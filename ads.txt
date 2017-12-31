@@ -1,0 +1,10 @@
+# gitmesomekode/adblock
+#
+# Homepage: https://github.com/gitmesomekode/adblock
+# License: https://github.com/gitmesomekode/adblock#License
+
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 newrevive.detik.com
+127.0.0.1 cdnstatic.detik.com
